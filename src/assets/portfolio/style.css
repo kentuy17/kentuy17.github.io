@@ -8134,7 +8134,8 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   font-family: "Poppins", Arial, sans-serif;
-  background: #000000;
+  /* background: #000000; */
+  background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(43, 55, 161) 100%, rgb(135, 164, 185) 100%);
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
@@ -8531,7 +8532,7 @@ h1, h2, h3, h4, h5,
           font-weight: 800; }
           .owl-carousel.home-slider .slider-item .slider-text h1 span {
             font-weight: 800;
-            color: #ffbd39; }
+            color: #ffbd39; } // #ffbd39
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text h1 {
               color: #fff;

@@ -14,6 +14,7 @@ import BlogComponent from './components/portfolio/sections/BlogComponent.vue'
 import CounterComponent from './components/portfolio/sections/CounterComponent.vue'
 import HireMeComponent from './components/portfolio/sections/HireMeComponent.vue'
 import ContactComponent from './components/portfolio/sections/ContactComponent.vue'
+import FooterComponent from './components/portfolio/FooterComponent.vue'
 
 </script>
 
@@ -27,8 +28,8 @@ import ContactComponent from './components/portfolio/sections/ContactComponent.v
   <ProjectsComponent />
   <BlogComponent />
   <ContactComponent />
-  <HireMeComponent  />
-  <ContactComponent />
+  <HireMeComponent />
+  <FooterComponent />
 </template>
 
 
