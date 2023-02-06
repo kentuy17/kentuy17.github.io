@@ -5,18 +5,18 @@
           <div class="col-md-7 heading-section text-center ftco-animate">
             <h1 class="big big-2">Contact</h1>
             <h2 class="mb-4">Contact Me</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+            <p>I will help you to ideate & design your product to life 🚀</p>
           </div>
         </div>
 
         <div class="row d-flex contact-info mb-5">
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
-          	<div class="align-self-stretch box p-4 text-center">
+          	<div class="align-self-stretch box py-4 text-center">
           		<div class="icon d-flex align-items-center justify-content-center">
           			<span class="icon-map-signs"></span>
           		</div>
           		<h3 class="mb-4">Address</h3>
-	            <p>Dumaguete City, Negros Oriental, Philippines</p>
+	            <p>Banilad, Dumaguete City, Negros Oriental, Philippines</p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -25,7 +25,7 @@
           			<span class="icon-phone2"></span>
           		</div>
           		<h3 class="mb-4">Contact Number</h3>
-	            <p><a href="tel://1234567920">+63-916-337-7896</a></p>
+	            <p><a href="tel://09163377896">+63-916-337-7896</a></p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -71,7 +71,7 @@
           </div>
 
           <div class="col-md-6 d-flex">
-          	<div class="img" style="background-image: url(images/about.jpg);"></div>
+          	<div class="img" style="background-image: url(images/kennethism.jpg);"></div>
           </div>
         </div>
       </div>

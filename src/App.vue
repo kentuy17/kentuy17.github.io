@@ -25,8 +25,7 @@ import FooterComponent from './components/portfolio/FooterComponent.vue'
   <ResumeComponent />
   <ServicesComponent />
   <SkillsComponent />
-  <ProjectsComponent />
-  <BlogComponent />
+  <!-- <ProjectsComponent /> -->
   <ContactComponent />
   <HireMeComponent />
   <FooterComponent />
