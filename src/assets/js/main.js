@@ -109,6 +109,8 @@
 	};
 	carousel();
 
+	$('.home-slider').removeClass('owl-drag');
+
 	$('nav .dropdown').hover(function(){
 		var $this = $(this);
 		// 	 timer;
