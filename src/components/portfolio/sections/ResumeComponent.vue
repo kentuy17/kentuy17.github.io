@@ -10,12 +10,12 @@
       </div>
       <div class="row">
         <div class="col-md-6">
-          <!-- <div class="resume-wrap ftco-animate h-80">
+          <div class="resume-wrap ftco-animate h-80">
             <span class="date">2014-2015</span>
             <h2>Bachelor of Science in Information Technology</h2>
             <span class="position">Negros Oriental State University</span>
             <p class="mt-4">Capitol Area, Kagawasan Ave, Dumaguete, 6200 Negros Oriental</p>
-          </div> -->
+          </div>
           <div class="resume-wrap ftco-animate h-80">
             <span class="date">May 2015 – Jan 2018</span>
             <h2>Software Engineer</h2>
@@ -28,16 +28,14 @@
             <span class="position">NEC Telecom Software Philippines, Inc.</span>
             <p class="mt-4">E-Office One, Asiatown I.T. Park, Apas, Cebu City</p>
           </div>
+        </div>
+        <div class="col-md-6">
           <div class="resume-wrap ftco-animate h-80">
             <span class="date">April 2018 - Jan 2019</span>
             <h2>Data Entry Machine Operator III</h2>
             <span class="position">Local Government Unit of Dumaguete City</span>
             <p class="mt-4">Colon St, Dumaguete, 6200 Negros Oriental</p>
           </div>
-        </div>
-
-        <div class="col-md-6">
-          
           <div class="resume-wrap ftco-animate h-80">
             <span class="date">April 2019 - May 2020</span>
             <h2>Web Developer</h2>
