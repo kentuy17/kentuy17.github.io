@@ -45,13 +45,7 @@
             <p class="mt-4">J. De Veyra St, Cebu City, Cebu</p>
           </div>
           <div class="resume-wrap ftco-animate h-80">
-            <span class="date">June 2020 - December 2021</span>
-            <h2>Web Developer</h2>
-            <span class="position">SPI Global / Straive</span>
-            <p class="mt-4">LP Information Technology Park, Jose Romero Road, Dumaguete, Negros Oriental</p>
-          </div>
-          <div class="resume-wrap ftco-animate h-80">
-            <span class="date">January 2022 – January 2023</span>
+            <span class="date">June 2020 – January 2023</span>
             <h2>Full-Stack Web Developer</h2>
             <span class="position">Digital Marketing Web Design</span>
             <p class="mt-4">Online Jobs Ph</p>
