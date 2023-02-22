@@ -45,7 +45,7 @@
           <div class="resume-wrap ftco-animate h-80">
             <span class="date">June 2020 – January 2023</span>
             <h2>Full-Stack Web Developer</h2>
-            <span class="position">Digital Marketing Web Design</span>
+            <span class="position">Freelancer</span>
             <p class="mt-4">Online Jobs Ph</p>
           </div>
         </div>
